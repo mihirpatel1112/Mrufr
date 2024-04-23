@@ -1,2 +1,4 @@
 # Mrufr
-Get any image in 400X400 
+1. type the name of the image you want.
+
+
